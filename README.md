@@ -1,16 +1,18 @@
-### Hi there 👋
+# 我不是铁杆🤗🤗🤗
 
-<!--
-**wobushitiegan/wobushitiegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 我不是铁杆，那我是谁？🤓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 我是干什么的？简单说一下🤔
+
+
+
+## 如果你想创建一个和我一样的个人博客，点这里😉
+
+
+
+## 如果你想了解我，看这里😆
+
+
+## 每一个仓库的介绍及引言😇
